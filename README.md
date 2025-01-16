@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=IZcSyYwJaQI
 
 ## Download The Source Code ZIP file :[click here](https://github.com/GH0STH4CKER/greet_api/archive/refs/heads/main.zip)
 ---
-
+## Check the deployed API : [vercel deployment](https://greetapi-dimuthdezoysagmailcoms-projects.vercel.app/)
 
 💖 **Enjoyed the content?**
 
