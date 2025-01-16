@@ -3,6 +3,8 @@
 Learn how to deploy your Python Flask API to Vercel in this simple, step-by-step tutorial!
 https://www.youtube.com/watch?v=IZcSyYwJaQI
 
+## Download The Source Code ZIP file :
+[CLICK HERE](https://github.com/GH0STH4CKER/greet_api/archive/refs/heads/main.zip)
 ---
 
 💖 **Enjoyed the content?**
