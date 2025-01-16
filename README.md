@@ -29,6 +29,3 @@ Your support means a lot and helps me continue creating valuable content. Thank 
 - GitHub: [@GH0STH4CKER](https://github.com/GH0STH4CKER)
 - YouTube: [Ghost Python Academy](https://www.youtube.com/@ghostacademy)
 
----
-
-This version incorporates a friendly call to action for support, with emojis and markdown for visual appeal! You can copy and paste it directly into your README.
