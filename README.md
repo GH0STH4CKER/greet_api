@@ -1,7 +1,3 @@
-Here's the updated README with your request, featuring the support message with more emojis and markdown formatting:
-
----
-
 # 🚀 Deploy Your Python Flask API to Vercel
 
 Learn how to deploy your Python Flask API to Vercel in this simple, step-by-step tutorial!
